@@ -1,0 +1,15 @@
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\bin\Debug\net6.0\C# Language.exe
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\bin\Debug\net6.0\C# Language.deps.json
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\bin\Debug\net6.0\C# Language.runtimeconfig.json
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\bin\Debug\net6.0\C# Language.dll
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\bin\Debug\net6.0\C# Language.pdb
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.csproj.AssemblyReference.cache
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.AssemblyInfoInputs.cache
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.AssemblyInfo.cs
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.csproj.CoreCompileInputs.cache
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.dll
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\refint\C# Language.dll
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.pdb
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\C# Language.genruntimeconfig.cache
+C:\Users\Hozaifa Zia\OneDrive\Documents\MCoder08\Write Hello world In Difrent Langueges\C# Language\obj\Debug\net6.0\ref\C# Language.dll
